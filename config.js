@@ -9,6 +9,7 @@ var config = {
     // Connection
     //
 
+    
     hosts: {
         // XMPP domain.
         domain: 'jitsi-meet.example.com',
